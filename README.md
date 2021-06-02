@@ -25,3 +25,16 @@ _Please click on the images on right side to view my solution._
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
+
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/samruddhi0507/The-Spark-Foundation/blob/main/Task%20No%202%20Prediction%20using%20Unsupervised%20ML%20(1).ipynb)
+
+### # Task-3 :Exploratory Data Analysis - Retail (Level - Beginner)
+_Please click on the images on right side to view my solution._
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+1. As a business manager, try to find out the weak areas where you can
+   work to make more profit.
+1. What all business problems you can derive by exploring the data?
+1. You can choose any of the tool of your choice
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
