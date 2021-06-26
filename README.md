@@ -49,7 +49,7 @@ _Please click on the images on right side to view my solution._
 1.  You can choose any of the tool of your choice
     (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
     
-   ### # Task -6 Prediction using Decision Tree Algorithm (Level - Intermediate)
+   ### Task -6 Prediction using Decision Tree Algorithm (Level - Intermediate)
   _Please click on the images on right side to view my solution._
 
 
