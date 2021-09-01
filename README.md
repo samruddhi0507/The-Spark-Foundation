@@ -6,7 +6,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( June-2021 )
 - **Internship Type** - Work from Home
-In this internship, we were provided 8 Tasks.
+In this internship, we were provided us certain Tasks.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/samruddhi0507/The-Spark-Foundation/blob/main/Task%20%20No%201%20%20Prediction%20using%20Supervised%20ML.ipynb)
 
